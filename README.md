@@ -1,0 +1,2 @@
+Follow the on-screen instructions to play the game.
+Enter your moves by specifying the row and column separated by a space. For example, to place your symbol in the second row and third column, type 1 2.
